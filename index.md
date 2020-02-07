@@ -260,7 +260,6 @@ please preview your site before committing, and make sure to run
 {% endif %}
 
 <hr/>
-
 {% comment %}
 SETUP
 
